@@ -9,6 +9,7 @@ int main()
     double distance = 12345.6789;
     char initial = 'A';
 
+    // Print the values of the variables
     printf("Age: %d\n", age);
     printf("Height: %.2f\n", height);
     printf("Distance: %.4lf\n", distance);

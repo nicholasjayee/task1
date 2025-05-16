@@ -1,0 +1,3 @@
+[submodule "task1-submodule"]
+	path = task1-submodule
+	url = ./task1-submodule
